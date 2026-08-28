@@ -6,16 +6,16 @@ const experience = [
   {
     company: 'Axon',
     role: 'Firmware Engineering Intern · Platform Firmware',
-    period: 'May 2026 — Present',
+    period: 'May 2026 — Aug. 2026',
     location: 'Boston, MA',
     description: 'Developing C/C++ firmware to enable LTE-based offloading and transmission of embedded-device sensor data. Building Python automation scripts to analyze IMU data streams and extract key metrics.',
   },
   {
     company: 'Carnegie Mellon University',
     role: 'Teaching Assistant · 15-151',
-    period: 'Aug 2026 — Incoming',
+    period: 'Aug 2026 — Present',
     location: 'Pittsburgh, PA',
-    description: 'Will lead recitations and office hours, assist in developing and grading assignments and exams, and support review sessions for Mathematical Foundations for Computer Science, a proof-based discrete mathematics course.',
+    description: 'Leading recitations and office hours, assisting in developing and grading assignments and exams, and supporting review sessions for 15-151 Mathematical Foundations for Computer Science.',
   },
 ]
 
